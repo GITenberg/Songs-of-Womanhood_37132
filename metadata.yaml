@@ -1,0 +1,26 @@
+_repo: Songs-of-Womanhood_37132
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alma-Tadema, Laurence
+    birthdate: 1864
+    deathdate: 1940
+    gutenberg_agent_id: '7251'
+    url: http://www.gutenberg.org/2009/agents/7251
+description: ''
+gutenberg_issued: '2011-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: Songs of Womanhood
+url: http://www.gutenberg.org/ebooks/37132
